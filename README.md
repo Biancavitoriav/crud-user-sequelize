@@ -57,6 +57,7 @@ Antes de começar, certifique-se de ter:
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
+```
 
 ### 2. **Baixe as dependencias**
 
