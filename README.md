@@ -14,14 +14,6 @@ Este projeto é uma aplicação web completa que utiliza **Node.js**, **Express*
   - Associar múltiplos endereços a cada usuário.
   - Campos principais: `rua`, `número`, `bairro`, `cidade`, `estado`, `CEP`, `complemento`.
 
-- **Relações**
-  - Um **usuário** pode ter **múltiplos endereços** (`hasMany`).
-  - Cada **endereço** pertence a um **usuário** (`belongsTo`).
-
-- **Interface Web**
-  - Páginas para visualização e manipulação dos registros de usuários e endereços.
-  - Renderização dinâmica com **Handlebars**.
-
 - **Integração com MySQL**
   - Banco de dados relacional para armazenar usuários e endereços.
   - Configuração via **Sequelize ORM**.
