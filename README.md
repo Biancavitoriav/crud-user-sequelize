@@ -70,7 +70,7 @@ docker exec -it mysql-container mysql -uroot -p1234
 CREATE DATABASE nodesequelize CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 Query OK, 1 row affected (0.03 sec)
 
-mysql> USE nodesequelize;
+USE nodesequelize;
 ```
 
 ### 5. **No arquivo db/conn.js, certifique-se de que as configurações batem com a do seu banco**
