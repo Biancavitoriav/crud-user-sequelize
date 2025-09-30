@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Usuários e Endereços com Node.js e Sequelize
+# Sistema de Gerenciamento de Usuários
 
 Este projeto é uma aplicação web completa que utiliza **Node.js**, **Express**, **Sequelize** e **MySQL** para gerenciar usuários e seus atributos. Ele implementa um sistema CRUD com interface utilizando **Handlebars**.
 
